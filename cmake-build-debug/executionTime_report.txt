@@ -1,0 +1,1700 @@
+Size of Set1: 10
+Size of Set2: 10
+Size of Set3: 10
+Size of intersection Serial: 1 - Serial execution time: 2 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+Size of intersection Serial: 1 - Serial execution time: 1 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 1 - Pthreads execution time: 123 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 84 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 125 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 224 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 189 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 152 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 70 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 71 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 100 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 93 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 1 - Pthreads execution time: 142 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 130 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 136 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 160 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 149 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 144 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 132 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 187 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 128 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 127 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 1 - Pthreads execution time: 235 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 207 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 216 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 224 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 189 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 194 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 217 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 193 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 216 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 190 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 1 - Pthreads execution time: 295 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 286 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 309 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 309 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 288 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 287 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 281 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 271 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 288 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 248 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 1 - Pthreads execution time: 337 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 320 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 327 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 378 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 354 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 323 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 361 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 397 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 365 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 400 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 1 - Pthreads execution time: 494 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 493 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 465 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 508 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 472 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 505 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 474 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 487 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 453 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 485 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 1 - Pthreads execution time: 642 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 635 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 668 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 671 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 685 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 678 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 724 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 708 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 693 microseconds
+Size of intersection Pthreads: 1 - Pthreads execution time: 849 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 1 - OpenMP execution time: 21 - OpenMP execution time with answer: 22 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 4 - OpenMP execution time with answer: 5 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 4 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 3 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 4 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 3 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 3 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 5 - OpenMP execution time with answer: 5 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 4 - OpenMP execution time with answer: 4 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 4 - OpenMP execution time with answer: 4 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 1 - OpenMP execution time: 329 - OpenMP execution time with answer: 330 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 32 - OpenMP execution time with answer: 33 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 34 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 26 - OpenMP execution time with answer: 27 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 25 - OpenMP execution time with answer: 25 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 34 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 32 - OpenMP execution time with answer: 33 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 26 - OpenMP execution time with answer: 26 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 31 - OpenMP execution time with answer: 32 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 31 - OpenMP execution time with answer: 32 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 1 - OpenMP execution time: 126 - OpenMP execution time with answer: 127 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 34 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 33 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 30 - OpenMP execution time with answer: 30 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 34 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 34 - OpenMP execution time with answer: 35 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 29 - OpenMP execution time with answer: 30 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 32 - OpenMP execution time with answer: 32 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 53 - OpenMP execution time with answer: 54 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 27 - OpenMP execution time with answer: 28 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 1 - OpenMP execution time: 145 - OpenMP execution time with answer: 146 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 48 - OpenMP execution time with answer: 49 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 42 - OpenMP execution time with answer: 43 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 40 - OpenMP execution time with answer: 41 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 38 - OpenMP execution time with answer: 38 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 38 - OpenMP execution time with answer: 39 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 33 - OpenMP execution time with answer: 33 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 38 - OpenMP execution time with answer: 38 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 44 - OpenMP execution time with answer: 46 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 40 - OpenMP execution time with answer: 40 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 1 - OpenMP execution time: 158 - OpenMP execution time with answer: 158 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 54 - OpenMP execution time with answer: 55 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 50 - OpenMP execution time with answer: 51 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 55 - OpenMP execution time with answer: 56 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 54 - OpenMP execution time with answer: 54 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 45 - OpenMP execution time with answer: 45 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 44 - OpenMP execution time with answer: 45 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 45 - OpenMP execution time with answer: 46 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 44 - OpenMP execution time with answer: 45 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 42 - OpenMP execution time with answer: 43 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 1 - OpenMP execution time: 212 - OpenMP execution time with answer: 213 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 59 - OpenMP execution time with answer: 61 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 61 - OpenMP execution time with answer: 61 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 63 - OpenMP execution time with answer: 64 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 56 - OpenMP execution time with answer: 57 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 54 - OpenMP execution time with answer: 54 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 53 - OpenMP execution time with answer: 53 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 50 - OpenMP execution time with answer: 50 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 53 - OpenMP execution time with answer: 54 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 64 - OpenMP execution time with answer: 65 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 1 - OpenMP execution time: 250 - OpenMP execution time with answer: 251 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 64 - OpenMP execution time with answer: 65 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 69 - OpenMP execution time with answer: 71 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 84 - OpenMP execution time with answer: 85 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 70 - OpenMP execution time with answer: 71 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 74 - OpenMP execution time with answer: 74 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 74 - OpenMP execution time with answer: 74 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 70 - OpenMP execution time with answer: 71 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 79 - OpenMP execution time with answer: 79 microseconds
+Size of intersection OpenMP: 1 - OpenMP execution time: 75 - OpenMP execution time with answer: 76 microseconds
+
+Size of Set1: 100
+Size of Set2: 100
+Size of Set3: 100
+Size of intersection Serial: 8 - Serial execution time: 23 microseconds
+Size of intersection Serial: 8 - Serial execution time: 22 microseconds
+Size of intersection Serial: 8 - Serial execution time: 17 microseconds
+Size of intersection Serial: 8 - Serial execution time: 17 microseconds
+Size of intersection Serial: 8 - Serial execution time: 15 microseconds
+Size of intersection Serial: 8 - Serial execution time: 15 microseconds
+Size of intersection Serial: 8 - Serial execution time: 15 microseconds
+Size of intersection Serial: 8 - Serial execution time: 15 microseconds
+Size of intersection Serial: 8 - Serial execution time: 14 microseconds
+Size of intersection Serial: 8 - Serial execution time: 15 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 8 - Pthreads execution time: 133 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 110 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 107 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 105 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 117 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 102 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 111 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 105 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 111 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 96 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 8 - Pthreads execution time: 148 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 144 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 135 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 122 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 134 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 165 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 112 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 137 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 146 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 144 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 8 - Pthreads execution time: 228 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 228 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 208 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 209 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 232 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 266 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 202 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 221 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 193 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 205 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 8 - Pthreads execution time: 273 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 279 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 305 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 282 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 266 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 259 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 605 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 335 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 300 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 271 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 8 - Pthreads execution time: 373 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 367 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 386 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 375 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 342 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 402 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 500 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 409 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 356 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 350 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 8 - Pthreads execution time: 556 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 506 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 474 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 427 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 452 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 531 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 541 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 502 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 571 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 499 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 8 - Pthreads execution time: 775 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 661 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 644 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 706 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 743 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 728 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 800 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 832 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 765 microseconds
+Size of intersection Pthreads: 8 - Pthreads execution time: 735 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 8 - OpenMP execution time: 28 - OpenMP execution time with answer: 32 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 22 - OpenMP execution time with answer: 25 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 19 - OpenMP execution time with answer: 21 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 16 - OpenMP execution time with answer: 18 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 16 - OpenMP execution time with answer: 19 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 15 - OpenMP execution time with answer: 18 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 15 - OpenMP execution time with answer: 18 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 16 - OpenMP execution time with answer: 18 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 15 - OpenMP execution time with answer: 18 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 15 - OpenMP execution time with answer: 18 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 8 - OpenMP execution time: 83 - OpenMP execution time with answer: 89 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 59 - OpenMP execution time with answer: 63 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 43 - OpenMP execution time with answer: 45 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 28 - OpenMP execution time with answer: 31 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 36 - OpenMP execution time with answer: 38 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 40 - OpenMP execution time with answer: 44 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 36 - OpenMP execution time with answer: 38 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 29 - OpenMP execution time with answer: 31 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 28 - OpenMP execution time with answer: 30 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 28 - OpenMP execution time with answer: 31 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 8 - OpenMP execution time: 138 - OpenMP execution time with answer: 141 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 36 - OpenMP execution time with answer: 40 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 37 - OpenMP execution time with answer: 39 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 32 - OpenMP execution time with answer: 35 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 32 - OpenMP execution time with answer: 34 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 34 - OpenMP execution time with answer: 36 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 34 - OpenMP execution time with answer: 36 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 34 - OpenMP execution time with answer: 36 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 33 - OpenMP execution time with answer: 36 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 33 - OpenMP execution time with answer: 36 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 8 - OpenMP execution time: 133 - OpenMP execution time with answer: 136 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 45 - OpenMP execution time with answer: 48 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 38 - OpenMP execution time with answer: 41 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 50 - OpenMP execution time with answer: 53 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 40 - OpenMP execution time with answer: 43 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 41 - OpenMP execution time with answer: 43 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 38 - OpenMP execution time with answer: 40 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 39 - OpenMP execution time with answer: 42 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 39 - OpenMP execution time with answer: 43 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 41 - OpenMP execution time with answer: 44 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 8 - OpenMP execution time: 149 - OpenMP execution time with answer: 152 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 49 - OpenMP execution time with answer: 52 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 53 - OpenMP execution time with answer: 56 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 50 - OpenMP execution time with answer: 53 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 52 - OpenMP execution time with answer: 54 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 52 - OpenMP execution time with answer: 55 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 50 - OpenMP execution time with answer: 52 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 49 - OpenMP execution time with answer: 52 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 51 - OpenMP execution time with answer: 53 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 49 - OpenMP execution time with answer: 52 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 8 - OpenMP execution time: 208 - OpenMP execution time with answer: 211 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 61 - OpenMP execution time with answer: 64 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 62 - OpenMP execution time with answer: 64 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 63 - OpenMP execution time with answer: 66 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 59 - OpenMP execution time with answer: 62 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 57 - OpenMP execution time with answer: 60 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 60 - OpenMP execution time with answer: 62 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 59 - OpenMP execution time with answer: 61 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 55 - OpenMP execution time with answer: 58 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 54 - OpenMP execution time with answer: 57 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 8 - OpenMP execution time: 207 - OpenMP execution time with answer: 212 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 79 - OpenMP execution time with answer: 83 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 77 - OpenMP execution time with answer: 81 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 70 - OpenMP execution time with answer: 73 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 73 - OpenMP execution time with answer: 76 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 70 - OpenMP execution time with answer: 73 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 72 - OpenMP execution time with answer: 75 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 69 - OpenMP execution time with answer: 72 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 72 - OpenMP execution time with answer: 76 microseconds
+Size of intersection OpenMP: 8 - OpenMP execution time: 70 - OpenMP execution time with answer: 73 microseconds
+
+Size of Set1: 1000
+Size of Set2: 1000
+Size of Set3: 1000
+Size of intersection Serial: 99 - Serial execution time: 299 microseconds
+Size of intersection Serial: 99 - Serial execution time: 261 microseconds
+Size of intersection Serial: 99 - Serial execution time: 244 microseconds
+Size of intersection Serial: 99 - Serial execution time: 237 microseconds
+Size of intersection Serial: 99 - Serial execution time: 228 microseconds
+Size of intersection Serial: 99 - Serial execution time: 218 microseconds
+Size of intersection Serial: 99 - Serial execution time: 212 microseconds
+Size of intersection Serial: 99 - Serial execution time: 209 microseconds
+Size of intersection Serial: 99 - Serial execution time: 212 microseconds
+Size of intersection Serial: 99 - Serial execution time: 205 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 99 - Pthreads execution time: 502 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 468 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 392 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 479 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 460 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 511 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 439 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 445 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 366 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 430 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 99 - Pthreads execution time: 315 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 274 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 256 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 265 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 284 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 341 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 288 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 292 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 250 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 300 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 99 - Pthreads execution time: 267 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 302 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 250 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 236 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 256 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 261 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 246 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 259 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 234 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 228 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 99 - Pthreads execution time: 327 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 288 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 303 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 309 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 291 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 316 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 310 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 312 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 268 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 312 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 99 - Pthreads execution time: 395 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 370 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 351 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 337 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 373 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 370 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 388 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 374 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 357 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 380 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 99 - Pthreads execution time: 539 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 551 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 518 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 511 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 534 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 582 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 527 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 536 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 518 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 559 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 99 - Pthreads execution time: 703 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 683 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 602 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 671 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 614 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 661 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 629 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 620 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 657 microseconds
+Size of intersection Pthreads: 99 - Pthreads execution time: 634 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 99 - OpenMP execution time: 237 - OpenMP execution time with answer: 271 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 215 - OpenMP execution time with answer: 246 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 202 - OpenMP execution time with answer: 232 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 191 - OpenMP execution time with answer: 222 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 178 - OpenMP execution time with answer: 208 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 175 - OpenMP execution time with answer: 204 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 168 - OpenMP execution time with answer: 198 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 171 - OpenMP execution time with answer: 201 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 163 - OpenMP execution time with answer: 193 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 169 - OpenMP execution time with answer: 198 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 99 - OpenMP execution time: 252 - OpenMP execution time with answer: 307 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 191 - OpenMP execution time with answer: 233 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 172 - OpenMP execution time with answer: 204 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 128 - OpenMP execution time with answer: 159 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 141 - OpenMP execution time with answer: 172 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 125 - OpenMP execution time with answer: 155 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 141 - OpenMP execution time with answer: 174 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 121 - OpenMP execution time with answer: 152 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 104 - OpenMP execution time with answer: 134 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 109 - OpenMP execution time with answer: 140 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 99 - OpenMP execution time: 192 - OpenMP execution time with answer: 226 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 91 - OpenMP execution time with answer: 122 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 74 - OpenMP execution time with answer: 107 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 74 - OpenMP execution time with answer: 105 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 79 - OpenMP execution time with answer: 109 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 68 - OpenMP execution time with answer: 98 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 77 - OpenMP execution time with answer: 107 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 74 - OpenMP execution time with answer: 103 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 80 - OpenMP execution time with answer: 119 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 88 - OpenMP execution time with answer: 119 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 99 - OpenMP execution time: 172 - OpenMP execution time with answer: 204 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 78 - OpenMP execution time with answer: 108 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 71 - OpenMP execution time with answer: 101 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 64 - OpenMP execution time with answer: 107 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 121 - OpenMP execution time with answer: 154 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 88 - OpenMP execution time with answer: 121 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 70 - OpenMP execution time with answer: 102 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 79 - OpenMP execution time with answer: 119 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 82 - OpenMP execution time with answer: 115 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 74 - OpenMP execution time with answer: 105 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 99 - OpenMP execution time: 158 - OpenMP execution time with answer: 191 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 66 - OpenMP execution time with answer: 98 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 69 - OpenMP execution time with answer: 100 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 66 - OpenMP execution time with answer: 96 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 65 - OpenMP execution time with answer: 95 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 80 - OpenMP execution time with answer: 109 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 77 - OpenMP execution time with answer: 109 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 72 - OpenMP execution time with answer: 105 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 69 - OpenMP execution time with answer: 100 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 69 - OpenMP execution time with answer: 100 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 99 - OpenMP execution time: 222 - OpenMP execution time with answer: 256 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 75 - OpenMP execution time with answer: 108 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 63 - OpenMP execution time with answer: 95 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 63 - OpenMP execution time with answer: 96 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 104 - OpenMP execution time with answer: 136 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 65 - OpenMP execution time with answer: 96 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 61 - OpenMP execution time with answer: 92 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 77 - OpenMP execution time with answer: 109 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 83 - OpenMP execution time with answer: 115 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 62 - OpenMP execution time with answer: 92 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 99 - OpenMP execution time: 231 - OpenMP execution time with answer: 264 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 90 - OpenMP execution time with answer: 123 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 85 - OpenMP execution time with answer: 116 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 89 - OpenMP execution time with answer: 119 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 77 - OpenMP execution time with answer: 112 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 79 - OpenMP execution time with answer: 110 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 78 - OpenMP execution time with answer: 112 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 83 - OpenMP execution time with answer: 114 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 80 - OpenMP execution time with answer: 112 microseconds
+Size of intersection OpenMP: 99 - OpenMP execution time: 86 - OpenMP execution time with answer: 117 microseconds
+
+Size of Set1: 10000
+Size of Set2: 10000
+Size of Set3: 10000
+Size of intersection Serial: 1107 - Serial execution time: 3446 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3359 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3377 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3447 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3380 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3387 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3371 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3430 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3393 microseconds
+Size of intersection Serial: 1107 - Serial execution time: 3371 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3716 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3634 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3666 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3784 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3753 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3527 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3870 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3792 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3701 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 3719 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2165 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2096 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2119 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2364 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2110 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2038 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2118 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2227 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2119 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 2112 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1410 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1437 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1385 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1431 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1290 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1333 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1354 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1340 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1305 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1318 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1114 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1045 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1057 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1084 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1066 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1070 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1050 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1061 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1081 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1074 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 1107 - Pthreads execution time: 939 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 965 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 926 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 942 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 1000 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 940 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 945 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 947 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 938 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 957 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 1107 - Pthreads execution time: 928 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 915 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 937 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 897 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 947 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 922 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 952 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 910 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 943 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 896 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 1107 - Pthreads execution time: 947 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 936 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 970 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 889 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 963 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 937 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 956 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 986 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 939 microseconds
+Size of intersection Pthreads: 1107 - Pthreads execution time: 991 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 1107 - OpenMP execution time: 3544 - OpenMP execution time with answer: 3977 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 3166 - OpenMP execution time with answer: 3564 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2845 - OpenMP execution time with answer: 3242 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2891 - OpenMP execution time with answer: 3291 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2990 - OpenMP execution time with answer: 3388 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2923 - OpenMP execution time with answer: 3322 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2861 - OpenMP execution time with answer: 3263 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2843 - OpenMP execution time with answer: 3241 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2783 - OpenMP execution time with answer: 3178 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2968 - OpenMP execution time with answer: 3371 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 1107 - OpenMP execution time: 2290 - OpenMP execution time with answer: 2699 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1675 - OpenMP execution time with answer: 2101 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1644 - OpenMP execution time with answer: 2054 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1816 - OpenMP execution time with answer: 2221 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1483 - OpenMP execution time with answer: 1881 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1536 - OpenMP execution time with answer: 1935 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1480 - OpenMP execution time with answer: 1874 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1444 - OpenMP execution time with answer: 1842 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1559 - OpenMP execution time with answer: 1965 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1745 - OpenMP execution time with answer: 2261 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1252 - OpenMP execution time with answer: 1690 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 964 - OpenMP execution time with answer: 1371 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 998 - OpenMP execution time with answer: 1406 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 960 - OpenMP execution time with answer: 1365 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1048 - OpenMP execution time with answer: 1488 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 937 - OpenMP execution time with answer: 1340 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 796 - OpenMP execution time with answer: 1197 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 974 - OpenMP execution time with answer: 1376 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 861 - OpenMP execution time with answer: 1265 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 1032 - OpenMP execution time with answer: 1435 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 1107 - OpenMP execution time: 829 - OpenMP execution time with answer: 1219 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 870 - OpenMP execution time with answer: 1285 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 612 - OpenMP execution time with answer: 1048 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 608 - OpenMP execution time with answer: 1012 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 601 - OpenMP execution time with answer: 998 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 563 - OpenMP execution time with answer: 960 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 705 - OpenMP execution time with answer: 1103 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 542 - OpenMP execution time with answer: 942 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 736 - OpenMP execution time with answer: 1133 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 693 - OpenMP execution time with answer: 1092 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 1107 - OpenMP execution time: 743 - OpenMP execution time with answer: 1166 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 517 - OpenMP execution time with answer: 969 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 585 - OpenMP execution time with answer: 989 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 527 - OpenMP execution time with answer: 928 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 544 - OpenMP execution time with answer: 942 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 535 - OpenMP execution time with answer: 931 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 530 - OpenMP execution time with answer: 924 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 532 - OpenMP execution time with answer: 932 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 527 - OpenMP execution time with answer: 926 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 529 - OpenMP execution time with answer: 924 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 1107 - OpenMP execution time: 625 - OpenMP execution time with answer: 1024 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 519 - OpenMP execution time with answer: 917 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 429 - OpenMP execution time with answer: 827 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 390 - OpenMP execution time with answer: 784 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 400 - OpenMP execution time with answer: 798 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 406 - OpenMP execution time with answer: 808 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 404 - OpenMP execution time with answer: 803 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 387 - OpenMP execution time with answer: 781 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 414 - OpenMP execution time with answer: 813 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 395 - OpenMP execution time with answer: 795 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 1107 - OpenMP execution time: 686 - OpenMP execution time with answer: 1098 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 341 - OpenMP execution time with answer: 742 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 464 - OpenMP execution time with answer: 863 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 483 - OpenMP execution time with answer: 882 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 482 - OpenMP execution time with answer: 880 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 317 - OpenMP execution time with answer: 717 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 336 - OpenMP execution time with answer: 731 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 535 - OpenMP execution time with answer: 934 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 480 - OpenMP execution time with answer: 949 microseconds
+Size of intersection OpenMP: 1107 - OpenMP execution time: 564 - OpenMP execution time with answer: 965 microseconds
+
+Size of Set1: 50000
+Size of Set2: 50000
+Size of Set3: 50000
+Size of intersection Serial: 5459 - Serial execution time: 27818 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 28921 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 35876 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 28309 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 26861 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 26707 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 26677 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 26846 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 24946 microseconds
+Size of intersection Serial: 5459 - Serial execution time: 26809 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 5459 - Pthreads execution time: 23346 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 24034 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 32560 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 24478 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 30472 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 25732 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 25764 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 25578 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 25672 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 25125 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13564 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13947 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13588 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13498 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13588 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13585 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13671 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13444 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13555 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 13983 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7844 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7324 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7249 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7588 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7271 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7357 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7204 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7465 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7315 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 8366 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6126 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6164 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7654 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6678 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6278 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7364 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7034 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6805 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6781 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 7554 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6170 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6304 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5981 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6219 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5690 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 6008 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5815 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5788 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5657 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 5725 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4926 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4874 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4853 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4607 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4614 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4725 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4794 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4586 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4609 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4593 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4375 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4150 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4325 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4185 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4380 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4473 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4558 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4354 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 4168 microseconds
+Size of intersection Pthreads: 5459 - Pthreads execution time: 3959 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 5459 - OpenMP execution time: 18838 - OpenMP execution time with answer: 21042 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 23009 - OpenMP execution time with answer: 26076 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 30727 - OpenMP execution time with answer: 33223 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 21539 - OpenMP execution time with answer: 23785 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 22512 - OpenMP execution time with answer: 24771 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 20238 - OpenMP execution time with answer: 22415 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 19077 - OpenMP execution time with answer: 21216 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 17219 - OpenMP execution time with answer: 19355 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 16871 - OpenMP execution time with answer: 19008 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 17347 - OpenMP execution time with answer: 19456 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 5459 - OpenMP execution time: 9233 - OpenMP execution time with answer: 11533 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8408 - OpenMP execution time with answer: 10558 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8273 - OpenMP execution time with answer: 10419 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8491 - OpenMP execution time with answer: 10640 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8492 - OpenMP execution time with answer: 10659 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8808 - OpenMP execution time with answer: 11021 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 9395 - OpenMP execution time with answer: 11538 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 9376 - OpenMP execution time with answer: 11517 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 9236 - OpenMP execution time with answer: 11546 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 8386 - OpenMP execution time with answer: 10527 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5184 - OpenMP execution time with answer: 7616 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4405 - OpenMP execution time with answer: 6563 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4707 - OpenMP execution time with answer: 7054 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4236 - OpenMP execution time with answer: 6366 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4082 - OpenMP execution time with answer: 6227 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4407 - OpenMP execution time with answer: 6563 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5222 - OpenMP execution time with answer: 7485 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5665 - OpenMP execution time with answer: 7842 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5185 - OpenMP execution time with answer: 7372 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5192 - OpenMP execution time with answer: 7377 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 5459 - OpenMP execution time: 5176 - OpenMP execution time with answer: 7378 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 4322 - OpenMP execution time with answer: 6477 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3403 - OpenMP execution time with answer: 5558 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3023 - OpenMP execution time with answer: 5254 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3172 - OpenMP execution time with answer: 5313 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3035 - OpenMP execution time with answer: 5208 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3176 - OpenMP execution time with answer: 5363 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3163 - OpenMP execution time with answer: 5392 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3186 - OpenMP execution time with answer: 5380 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3140 - OpenMP execution time with answer: 5325 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3170 - OpenMP execution time with answer: 5370 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 3125 - OpenMP execution time with answer: 5300 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2389 - OpenMP execution time with answer: 4589 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2157 - OpenMP execution time with answer: 4321 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2328 - OpenMP execution time with answer: 4493 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2748 - OpenMP execution time with answer: 4955 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2273 - OpenMP execution time with answer: 4460 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2748 - OpenMP execution time with answer: 4916 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2319 - OpenMP execution time with answer: 4493 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2796 - OpenMP execution time with answer: 4962 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2310 - OpenMP execution time with answer: 4478 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2027 - OpenMP execution time with answer: 4192 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2144 - OpenMP execution time with answer: 4305 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2008 - OpenMP execution time with answer: 4165 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2120 - OpenMP execution time with answer: 4273 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2039 - OpenMP execution time with answer: 4217 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2129 - OpenMP execution time with answer: 4269 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1996 - OpenMP execution time with answer: 4135 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2197 - OpenMP execution time with answer: 4359 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2065 - OpenMP execution time with answer: 4202 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1936 - OpenMP execution time with answer: 4082 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1695 - OpenMP execution time with answer: 3833 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1852 - OpenMP execution time with answer: 3990 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 2000 - OpenMP execution time with answer: 4160 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1974 - OpenMP execution time with answer: 4121 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1877 - OpenMP execution time with answer: 4024 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1576 - OpenMP execution time with answer: 3753 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1678 - OpenMP execution time with answer: 3830 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1867 - OpenMP execution time with answer: 4086 microseconds
+Size of intersection OpenMP: 5459 - OpenMP execution time: 1794 - OpenMP execution time with answer: 3938 microseconds
+
+Size of Set1: 100000
+Size of Set2: 100000
+Size of Set3: 100000
+Size of intersection Serial: 11067 - Serial execution time: 59113 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 64526 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 56991 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 50251 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 47887 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 52977 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 49594 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 45145 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 45811 microseconds
+Size of intersection Serial: 11067 - Serial execution time: 46761 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 11067 - Pthreads execution time: 44377 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 46136 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 43245 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 42045 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 40968 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 41322 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 42427 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 48791 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 47685 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 46886 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 11067 - Pthreads execution time: 25808 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 25465 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 26023 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 25366 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 25895 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 25387 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 24273 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 24344 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 26031 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 24288 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 11067 - Pthreads execution time: 14506 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 13888 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 14298 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 14101 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 13878 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 15558 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 15716 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 15781 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 15065 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 15192 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 11067 - Pthreads execution time: 13606 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 12179 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 11908 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 11994 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 12175 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 12386 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 12242 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 12112 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 11989 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 11775 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10951 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10162 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9859 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10545 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10051 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10337 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10187 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9934 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10118 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10040 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9106 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9058 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 10043 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9008 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8351 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9718 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8538 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9911 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9091 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 9851 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8147 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8092 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8230 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8082 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8028 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 7903 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8062 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8366 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 7922 microseconds
+Size of intersection Pthreads: 11067 - Pthreads execution time: 8061 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 11067 - OpenMP execution time: 34502 - OpenMP execution time with answer: 38866 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 32109 - OpenMP execution time with answer: 36361 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 32599 - OpenMP execution time with answer: 36827 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 34781 - OpenMP execution time with answer: 39207 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 36652 - OpenMP execution time with answer: 40989 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 35295 - OpenMP execution time with answer: 39557 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 33020 - OpenMP execution time with answer: 37384 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 32106 - OpenMP execution time with answer: 36335 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 32567 - OpenMP execution time with answer: 36946 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 33655 - OpenMP execution time with answer: 37890 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 11067 - OpenMP execution time: 17056 - OpenMP execution time with answer: 21378 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 16402 - OpenMP execution time with answer: 20653 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 16083 - OpenMP execution time with answer: 20315 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 15520 - OpenMP execution time with answer: 19830 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 15987 - OpenMP execution time with answer: 20186 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 15869 - OpenMP execution time with answer: 20085 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 15597 - OpenMP execution time with answer: 19860 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 15932 - OpenMP execution time with answer: 20176 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 17051 - OpenMP execution time with answer: 21249 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 16620 - OpenMP execution time with answer: 21061 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9004 - OpenMP execution time with answer: 13299 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 8953 - OpenMP execution time with answer: 13239 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9040 - OpenMP execution time with answer: 13364 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 8886 - OpenMP execution time with answer: 13179 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9052 - OpenMP execution time with answer: 13453 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9039 - OpenMP execution time with answer: 13522 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9098 - OpenMP execution time with answer: 13494 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 8836 - OpenMP execution time with answer: 13242 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 9038 - OpenMP execution time with answer: 13423 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 8857 - OpenMP execution time with answer: 13213 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6363 - OpenMP execution time with answer: 10730 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6835 - OpenMP execution time with answer: 11329 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6441 - OpenMP execution time with answer: 10791 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6163 - OpenMP execution time with answer: 10519 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6564 - OpenMP execution time with answer: 10863 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6232 - OpenMP execution time with answer: 10623 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5689 - OpenMP execution time with answer: 10035 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6502 - OpenMP execution time with answer: 10822 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6288 - OpenMP execution time with answer: 11555 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6322 - OpenMP execution time with answer: 10621 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5083 - OpenMP execution time with answer: 9444 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4845 - OpenMP execution time with answer: 9391 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5076 - OpenMP execution time with answer: 9458 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6190 - OpenMP execution time with answer: 10754 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6022 - OpenMP execution time with answer: 10567 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4879 - OpenMP execution time with answer: 9234 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5185 - OpenMP execution time with answer: 9546 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5158 - OpenMP execution time with answer: 9638 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5046 - OpenMP execution time with answer: 9389 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5512 - OpenMP execution time with answer: 9848 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5434 - OpenMP execution time with answer: 10231 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4630 - OpenMP execution time with answer: 9500 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4754 - OpenMP execution time with answer: 9292 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4713 - OpenMP execution time with answer: 9780 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4925 - OpenMP execution time with answer: 9535 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5620 - OpenMP execution time with answer: 10186 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5204 - OpenMP execution time with answer: 9782 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5253 - OpenMP execution time with answer: 9843 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4813 - OpenMP execution time with answer: 9457 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5287 - OpenMP execution time with answer: 9884 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 11067 - OpenMP execution time: 6798 - OpenMP execution time with answer: 11553 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5996 - OpenMP execution time with answer: 10984 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4910 - OpenMP execution time with answer: 9693 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 3731 - OpenMP execution time with answer: 8269 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4211 - OpenMP execution time with answer: 8740 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 3759 - OpenMP execution time with answer: 8259 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 4310 - OpenMP execution time with answer: 8881 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 3559 - OpenMP execution time with answer: 8150 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 5722 - OpenMP execution time with answer: 10437 microseconds
+Size of intersection OpenMP: 11067 - OpenMP execution time: 3995 - OpenMP execution time with answer: 8520 microseconds
+
+Size of Set1: 500000
+Size of Set2: 500000
+Size of Set3: 500000
+Size of intersection Serial: 55649 - Serial execution time: 335942 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 322604 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 325458 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 325983 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 321256 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 328035 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 319474 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 328405 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 324870 microseconds
+Size of intersection Serial: 55649 - Serial execution time: 319675 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 55649 - Pthreads execution time: 276892 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 277411 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 287286 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 295103 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 280004 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 286925 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 287040 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 290192 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 288683 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 290167 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 55649 - Pthreads execution time: 154890 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 156185 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 154009 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 155239 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 158463 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 155515 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 156845 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 155291 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 157171 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 153374 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 55649 - Pthreads execution time: 88706 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 88725 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 88131 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 90002 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 88789 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 89033 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 89188 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 91812 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 89897 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 89941 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 55649 - Pthreads execution time: 70211 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 68917 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 69868 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 68573 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 68374 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 69400 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 71124 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 68970 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 69181 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 68735 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 55649 - Pthreads execution time: 57670 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 59239 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 60361 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 62784 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 58451 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 59201 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 59214 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 59991 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 58273 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 57460 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 55649 - Pthreads execution time: 51897 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 51729 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 54407 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 51399 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 51236 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 54249 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 52343 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 52359 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 52123 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 52709 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 55649 - Pthreads execution time: 48052 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 49787 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 48899 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 48171 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 47320 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 48566 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 50679 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 47895 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 47607 microseconds
+Size of intersection Pthreads: 55649 - Pthreads execution time: 47794 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 55649 - OpenMP execution time: 227456 - OpenMP execution time with answer: 250861 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 227060 - OpenMP execution time with answer: 250611 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 225545 - OpenMP execution time with answer: 249413 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 229916 - OpenMP execution time with answer: 253437 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 231445 - OpenMP execution time with answer: 255125 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 235213 - OpenMP execution time with answer: 259834 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 236101 - OpenMP execution time with answer: 260801 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 230227 - OpenMP execution time with answer: 253584 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 227329 - OpenMP execution time with answer: 252350 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 234966 - OpenMP execution time with answer: 259157 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 55649 - OpenMP execution time: 118931 - OpenMP execution time with answer: 143190 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 116929 - OpenMP execution time with answer: 141200 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 118934 - OpenMP execution time with answer: 143418 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 119040 - OpenMP execution time with answer: 143680 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 118595 - OpenMP execution time with answer: 142689 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 115499 - OpenMP execution time with answer: 139409 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 114109 - OpenMP execution time with answer: 137645 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 115962 - OpenMP execution time with answer: 140158 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 112933 - OpenMP execution time with answer: 136437 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 112974 - OpenMP execution time with answer: 136572 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60819 - OpenMP execution time with answer: 85464 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60634 - OpenMP execution time with answer: 85180 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60107 - OpenMP execution time with answer: 84743 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60340 - OpenMP execution time with answer: 84958 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60270 - OpenMP execution time with answer: 85038 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60755 - OpenMP execution time with answer: 85608 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 60527 - OpenMP execution time with answer: 85377 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 59965 - OpenMP execution time with answer: 84703 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 59040 - OpenMP execution time with answer: 83913 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 59287 - OpenMP execution time with answer: 84218 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 55649 - OpenMP execution time: 47029 - OpenMP execution time with answer: 72095 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40117 - OpenMP execution time with answer: 64792 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40236 - OpenMP execution time with answer: 64896 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 43420 - OpenMP execution time with answer: 68414 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 39190 - OpenMP execution time with answer: 63888 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40393 - OpenMP execution time with answer: 65113 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 39973 - OpenMP execution time with answer: 64673 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40037 - OpenMP execution time with answer: 64907 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 44206 - OpenMP execution time with answer: 68935 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40237 - OpenMP execution time with answer: 65113 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 55649 - OpenMP execution time: 36430 - OpenMP execution time with answer: 61414 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 36040 - OpenMP execution time with answer: 61015 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 36977 - OpenMP execution time with answer: 62069 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 36620 - OpenMP execution time with answer: 61381 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 37132 - OpenMP execution time with answer: 62801 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 34006 - OpenMP execution time with answer: 58892 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 34198 - OpenMP execution time with answer: 59092 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 35618 - OpenMP execution time with answer: 60789 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 37697 - OpenMP execution time with answer: 62825 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 40892 - OpenMP execution time with answer: 65833 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 55649 - OpenMP execution time: 27228 - OpenMP execution time with answer: 52422 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26892 - OpenMP execution time with answer: 52264 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26962 - OpenMP execution time with answer: 52167 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26862 - OpenMP execution time with answer: 52295 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 27667 - OpenMP execution time with answer: 52918 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26746 - OpenMP execution time with answer: 52017 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26744 - OpenMP execution time with answer: 52647 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26583 - OpenMP execution time with answer: 52301 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 27018 - OpenMP execution time with answer: 52345 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26828 - OpenMP execution time with answer: 52581 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 55649 - OpenMP execution time: 32223 - OpenMP execution time with answer: 57458 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26597 - OpenMP execution time with answer: 51849 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 34382 - OpenMP execution time with answer: 59582 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 34438 - OpenMP execution time with answer: 59762 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 31054 - OpenMP execution time with answer: 56493 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 23005 - OpenMP execution time with answer: 47489 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 22740 - OpenMP execution time with answer: 47552 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26034 - OpenMP execution time with answer: 51561 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 26975 - OpenMP execution time with answer: 52198 microseconds
+Size of intersection OpenMP: 55649 - OpenMP execution time: 34582 - OpenMP execution time with answer: 60225 microseconds
+
+Size of Set1: 1e+06
+Size of Set2: 1e+06
+Size of Set3: 1e+06
+Size of intersection Serial: 111150 - Serial execution time: 674771 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 669797 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 680190 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 660825 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 669222 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 675995 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 666525 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 671981 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 680591 microseconds
+Size of intersection Serial: 111150 - Serial execution time: 682568 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 111150 - Pthreads execution time: 604611 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 613294 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 591270 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 604020 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 606756 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 611464 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 593954 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 598954 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 583408 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 593723 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 111150 - Pthreads execution time: 316712 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 316655 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 322522 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 317963 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 327062 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 320685 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 326212 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 325533 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 318068 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 317881 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 111150 - Pthreads execution time: 191070 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 190005 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 188834 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 189359 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 190692 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 191253 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 190305 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 189671 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 190938 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 189262 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 111150 - Pthreads execution time: 143588 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 145418 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 145228 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 146050 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 144394 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 143567 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 143390 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 144087 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 146041 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 143858 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 111150 - Pthreads execution time: 121615 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 122968 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 123350 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 122630 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 123174 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 122002 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 120269 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 124609 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 126868 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 123453 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 111150 - Pthreads execution time: 108037 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 105856 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 106489 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 109312 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 107403 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 105837 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 104305 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 104807 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 104995 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 105360 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 111150 - Pthreads execution time: 98744 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 99439 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 102552 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 103236 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 103701 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 110633 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 111586 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 109022 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 113365 microseconds
+Size of intersection Pthreads: 111150 - Pthreads execution time: 110348 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 111150 - OpenMP execution time: 508329 - OpenMP execution time with answer: 558485 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 498374 - OpenMP execution time with answer: 549673 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 497343 - OpenMP execution time with answer: 546426 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 501297 - OpenMP execution time with answer: 552326 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 492758 - OpenMP execution time with answer: 543581 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 500361 - OpenMP execution time with answer: 551811 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 500252 - OpenMP execution time with answer: 551768 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 500096 - OpenMP execution time with answer: 551230 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 497171 - OpenMP execution time with answer: 548453 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 500120 - OpenMP execution time with answer: 551184 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 111150 - OpenMP execution time: 248195 - OpenMP execution time with answer: 298522 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 244617 - OpenMP execution time with answer: 294766 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 244700 - OpenMP execution time with answer: 294520 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 244227 - OpenMP execution time with answer: 294379 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 250651 - OpenMP execution time with answer: 302204 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 251788 - OpenMP execution time with answer: 303200 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 247802 - OpenMP execution time with answer: 297931 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 247877 - OpenMP execution time with answer: 299339 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 249939 - OpenMP execution time with answer: 301496 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 249929 - OpenMP execution time with answer: 301485 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 111150 - OpenMP execution time: 129322 - OpenMP execution time with answer: 181088 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 127213 - OpenMP execution time with answer: 178698 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 127893 - OpenMP execution time with answer: 178281 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 133791 - OpenMP execution time with answer: 183831 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 127943 - OpenMP execution time with answer: 178530 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 126327 - OpenMP execution time with answer: 176516 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 132230 - OpenMP execution time with answer: 183292 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 128064 - OpenMP execution time with answer: 178510 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 126005 - OpenMP execution time with answer: 177051 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 125857 - OpenMP execution time with answer: 176014 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 111150 - OpenMP execution time: 84715 - OpenMP execution time with answer: 135556 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 84030 - OpenMP execution time with answer: 134187 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 84755 - OpenMP execution time with answer: 135003 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 84027 - OpenMP execution time with answer: 134287 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 85016 - OpenMP execution time with answer: 135966 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 83907 - OpenMP execution time with answer: 134943 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 85531 - OpenMP execution time with answer: 137315 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 102774 - OpenMP execution time with answer: 154304 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 85849 - OpenMP execution time with answer: 138008 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 84973 - OpenMP execution time with answer: 136171 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 111150 - OpenMP execution time: 74928 - OpenMP execution time with answer: 125897 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 66323 - OpenMP execution time with answer: 117814 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 71923 - OpenMP execution time with answer: 123794 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 75852 - OpenMP execution time with answer: 126864 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 70057 - OpenMP execution time with answer: 121453 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 68751 - OpenMP execution time with answer: 119971 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 70962 - OpenMP execution time with answer: 122281 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 76380 - OpenMP execution time with answer: 128243 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 72462 - OpenMP execution time with answer: 124624 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 66412 - OpenMP execution time with answer: 118391 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 111150 - OpenMP execution time: 54078 - OpenMP execution time with answer: 106200 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53253 - OpenMP execution time with answer: 104722 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 54135 - OpenMP execution time with answer: 105682 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53709 - OpenMP execution time with answer: 104226 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53790 - OpenMP execution time with answer: 104467 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 54165 - OpenMP execution time with answer: 106496 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53822 - OpenMP execution time with answer: 104996 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 54554 - OpenMP execution time with answer: 105494 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53886 - OpenMP execution time with answer: 104382 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 54174 - OpenMP execution time with answer: 104486 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 111150 - OpenMP execution time: 53180 - OpenMP execution time with answer: 104310 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 45343 - OpenMP execution time with answer: 96991 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 43173 - OpenMP execution time with answer: 94414 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 41794 - OpenMP execution time with answer: 92902 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 41287 - OpenMP execution time with answer: 93110 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 40981 - OpenMP execution time with answer: 93227 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 42218 - OpenMP execution time with answer: 94291 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 51002 - OpenMP execution time with answer: 103524 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 47070 - OpenMP execution time with answer: 99441 microseconds
+Size of intersection OpenMP: 111150 - OpenMP execution time: 44441 - OpenMP execution time with answer: 96940 microseconds
+
+Size of Set1: 5e+06
+Size of Set2: 5e+06
+Size of Set3: 5e+06
+Size of intersection Serial: 554906 - Serial execution time: 3587666 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3630777 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3604064 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3687865 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3663961 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3642945 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3645026 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3624504 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3653979 microseconds
+Size of intersection Serial: 554906 - Serial execution time: 3647098 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3242459 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3264787 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3270062 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3290112 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3274441 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3255561 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3276951 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3255321 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3236953 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 3239316 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1767717 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1764550 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1761664 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1748431 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1743106 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1737607 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1753670 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1748657 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1740247 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1754132 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1031076 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1033209 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1031467 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1033210 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1025090 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1028329 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1025779 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1030733 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1026668 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 1023498 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 554905 - Pthreads execution time: 773370 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 781122 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 775418 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 775217 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 775163 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 781669 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 781062 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 773099 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 778643 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 777567 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 554905 - Pthreads execution time: 652416 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 656237 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 665251 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 654297 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 652099 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 660883 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 669443 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 676568 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 657017 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 658180 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 554905 - Pthreads execution time: 590344 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 570076 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 574887 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 559251 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 548336 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 564894 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 569209 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 577508 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 559468 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 575051 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 554905 - Pthreads execution time: 524896 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 521152 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 520618 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 525318 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 535104 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 523561 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 519300 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 526828 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 529152 microseconds
+Size of intersection Pthreads: 554905 - Pthreads execution time: 515217 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2661745 - OpenMP execution time with answer: 2936897 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2680942 - OpenMP execution time with answer: 2954319 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2662536 - OpenMP execution time with answer: 2938663 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2694208 - OpenMP execution time with answer: 2969754 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2692598 - OpenMP execution time with answer: 2969396 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2677201 - OpenMP execution time with answer: 2951465 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2642460 - OpenMP execution time with answer: 2917475 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2638404 - OpenMP execution time with answer: 2909728 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2650396 - OpenMP execution time with answer: 2923678 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 2643704 - OpenMP execution time with answer: 2916212 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1340269 - OpenMP execution time with answer: 1613258 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1346425 - OpenMP execution time with answer: 1619497 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1341604 - OpenMP execution time with answer: 1615965 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1351448 - OpenMP execution time with answer: 1625847 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1339998 - OpenMP execution time with answer: 1614782 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1349768 - OpenMP execution time with answer: 1627072 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1346988 - OpenMP execution time with answer: 1619401 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1351673 - OpenMP execution time with answer: 1631259 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1366336 - OpenMP execution time with answer: 1638603 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 1325537 - OpenMP execution time with answer: 1600437 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 554906 - OpenMP execution time: 694627 - OpenMP execution time with answer: 972602 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 706947 - OpenMP execution time with answer: 983521 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 689450 - OpenMP execution time with answer: 963596 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 689333 - OpenMP execution time with answer: 962552 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 691316 - OpenMP execution time with answer: 966615 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 687744 - OpenMP execution time with answer: 963898 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 687585 - OpenMP execution time with answer: 961384 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 685554 - OpenMP execution time with answer: 959481 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 686942 - OpenMP execution time with answer: 968811 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 686849 - OpenMP execution time with answer: 963154 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 554906 - OpenMP execution time: 459042 - OpenMP execution time with answer: 736727 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 462986 - OpenMP execution time with answer: 740547 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 484981 - OpenMP execution time with answer: 761589 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 459480 - OpenMP execution time with answer: 739953 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 461077 - OpenMP execution time with answer: 740306 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 460361 - OpenMP execution time with answer: 735570 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 465292 - OpenMP execution time with answer: 746709 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 464241 - OpenMP execution time with answer: 738847 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 458204 - OpenMP execution time with answer: 733713 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 458861 - OpenMP execution time with answer: 733806 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 554906 - OpenMP execution time: 366483 - OpenMP execution time with answer: 647184 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 361492 - OpenMP execution time with answer: 637947 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 375051 - OpenMP execution time with answer: 651210 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 353082 - OpenMP execution time with answer: 628048 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 369734 - OpenMP execution time with answer: 647641 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 373967 - OpenMP execution time with answer: 653821 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 371271 - OpenMP execution time with answer: 649800 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 375451 - OpenMP execution time with answer: 650940 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 392494 - OpenMP execution time with answer: 671385 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 399092 - OpenMP execution time with answer: 673358 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 554906 - OpenMP execution time: 290562 - OpenMP execution time with answer: 572280 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 289022 - OpenMP execution time with answer: 565226 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 294348 - OpenMP execution time with answer: 573218 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 289279 - OpenMP execution time with answer: 567654 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 289767 - OpenMP execution time with answer: 566600 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 288800 - OpenMP execution time with answer: 564794 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 282747 - OpenMP execution time with answer: 560518 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 290007 - OpenMP execution time with answer: 568840 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 290505 - OpenMP execution time with answer: 566318 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 291169 - OpenMP execution time with answer: 570647 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 554906 - OpenMP execution time: 228763 - OpenMP execution time with answer: 507392 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 230934 - OpenMP execution time with answer: 508808 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 223253 - OpenMP execution time with answer: 502652 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 223329 - OpenMP execution time with answer: 499702 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 225485 - OpenMP execution time with answer: 510223 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 237151 - OpenMP execution time with answer: 514103 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 242777 - OpenMP execution time with answer: 519344 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 231369 - OpenMP execution time with answer: 510180 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 245408 - OpenMP execution time with answer: 524388 microseconds
+Size of intersection OpenMP: 554906 - OpenMP execution time: 233652 - OpenMP execution time with answer: 509898 microseconds
+
+Size of Set1: 1e+07
+Size of Set2: 1e+07
+Size of Set3: 1e+07
+Size of intersection Serial: 1112374 - Serial execution time: 7405885 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7603600 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7781606 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7534189 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7668863 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7529881 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7397083 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7547986 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7442173 microseconds
+Size of intersection Serial: 1112374 - Serial execution time: 7833259 microseconds
+
+NUM_THREADS: 1
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6772967 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 7078539 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6838659 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6805375 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6819961 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6767130 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6655402 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6838455 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6622727 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 6719891 microseconds
+NUM_THREADS: 2
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3658307 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3662968 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3680789 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3737981 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3718155 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3690387 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3637429 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3649107 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3683222 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 3626995 microseconds
+NUM_THREADS: 4
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2135119 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2129627 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2143337 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2148030 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2139345 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2153889 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2147211 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2157068 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2147171 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 2138916 microseconds
+NUM_THREADS: 6
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1607703 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1608597 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1611372 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1622863 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1614209 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1608652 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1619032 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1625141 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1605808 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1621300 microseconds
+NUM_THREADS: 8
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1392667 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1379924 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1384933 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1372944 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1371064 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1376958 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1368434 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1352932 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1365560 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1353687 microseconds
+NUM_THREADS: 12
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1161651 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1168794 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1181816 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1174079 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1194300 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1176442 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1171594 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1184037 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1165383 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1182408 microseconds
+NUM_THREADS: 16
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1098791 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1087776 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1088297 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1085604 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1097618 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1092460 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1090798 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1088781 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1076703 microseconds
+Size of intersection Pthreads: 1112374 - Pthreads execution time: 1097961 microseconds
+
+NUM_THREADS: 1
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5603610 - OpenMP execution time with answer: 6172585 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5665062 - OpenMP execution time with answer: 6236158 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5501799 - OpenMP execution time with answer: 6070686 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5586455 - OpenMP execution time with answer: 6156663 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5483699 - OpenMP execution time with answer: 6053330 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5509500 - OpenMP execution time with answer: 6074642 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5554890 - OpenMP execution time with answer: 6120366 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5541377 - OpenMP execution time with answer: 6111778 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5806758 - OpenMP execution time with answer: 6377406 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 5614655 - OpenMP execution time with answer: 6190163 microseconds
+NUM_THREADS: 2
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2776740 - OpenMP execution time with answer: 3353593 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2772774 - OpenMP execution time with answer: 3340908 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2787431 - OpenMP execution time with answer: 3351879 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2808141 - OpenMP execution time with answer: 3373330 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2759496 - OpenMP execution time with answer: 3329103 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2761730 - OpenMP execution time with answer: 3328247 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2812711 - OpenMP execution time with answer: 3382154 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2781617 - OpenMP execution time with answer: 3346395 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2785610 - OpenMP execution time with answer: 3357105 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 2808006 - OpenMP execution time with answer: 3378617 microseconds
+NUM_THREADS: 4
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1418582 - OpenMP execution time with answer: 1989750 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1425925 - OpenMP execution time with answer: 1996015 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1417913 - OpenMP execution time with answer: 1985474 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1415691 - OpenMP execution time with answer: 1984818 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1415294 - OpenMP execution time with answer: 1992037 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1425804 - OpenMP execution time with answer: 2001402 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1419515 - OpenMP execution time with answer: 1994004 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1421824 - OpenMP execution time with answer: 1994694 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1414574 - OpenMP execution time with answer: 1989558 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 1427494 - OpenMP execution time with answer: 2004499 microseconds
+NUM_THREADS: 6
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 979189 - OpenMP execution time with answer: 1551774 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 950658 - OpenMP execution time with answer: 1523527 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 992552 - OpenMP execution time with answer: 1564545 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 949893 - OpenMP execution time with answer: 1517001 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 945591 - OpenMP execution time with answer: 1513910 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 948375 - OpenMP execution time with answer: 1515242 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 956377 - OpenMP execution time with answer: 1526012 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 955702 - OpenMP execution time with answer: 1525455 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 955696 - OpenMP execution time with answer: 1525831 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 951683 - OpenMP execution time with answer: 1523271 microseconds
+NUM_THREADS: 8
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 749898 - OpenMP execution time with answer: 1323898 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 741070 - OpenMP execution time with answer: 1310500 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 775278 - OpenMP execution time with answer: 1349942 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 766671 - OpenMP execution time with answer: 1336550 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 770237 - OpenMP execution time with answer: 1341529 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 769984 - OpenMP execution time with answer: 1342630 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 806998 - OpenMP execution time with answer: 1376623 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 824491 - OpenMP execution time with answer: 1397622 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 843356 - OpenMP execution time with answer: 1412851 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 771291 - OpenMP execution time with answer: 1341436 microseconds
+NUM_THREADS: 12
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 602348 - OpenMP execution time with answer: 1174360 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 596717 - OpenMP execution time with answer: 1170205 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 593292 - OpenMP execution time with answer: 1175018 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 605990 - OpenMP execution time with answer: 1179964 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 603235 - OpenMP execution time with answer: 1180186 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 591348 - OpenMP execution time with answer: 1167882 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 589794 - OpenMP execution time with answer: 1160882 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 588986 - OpenMP execution time with answer: 1173123 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 592652 - OpenMP execution time with answer: 1167731 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 590501 - OpenMP execution time with answer: 1175603 microseconds
+NUM_THREADS: 16
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 534669 - OpenMP execution time with answer: 1127967 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 569507 - OpenMP execution time with answer: 1152813 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 536638 - OpenMP execution time with answer: 1114750 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 493218 - OpenMP execution time with answer: 1069427 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 478421 - OpenMP execution time with answer: 1057366 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 505634 - OpenMP execution time with answer: 1080540 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 492984 - OpenMP execution time with answer: 1069548 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 501405 - OpenMP execution time with answer: 1078541 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 477118 - OpenMP execution time with answer: 1050725 microseconds
+Size of intersection OpenMP: 1112374 - OpenMP execution time: 475426 - OpenMP execution time with answer: 1045709 microseconds
+
